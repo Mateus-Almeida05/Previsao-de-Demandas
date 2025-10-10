@@ -1,3 +1,6 @@
+<img width="343" height="240" alt="image" src="https://github.com/user-attachments/assets/43f94828-b572-40e4-972e-0476bee8e333" />
+
+
 ## **Previsão de Demandas**
 
 ## **1\. Introdução**
